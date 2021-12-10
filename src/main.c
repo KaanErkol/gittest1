@@ -6,6 +6,10 @@ void main(){
     void printLn(){
         //logic
 
+
+ 
+        return "ok"; //code fix
+
     }
 
     void exitArcelik(){
