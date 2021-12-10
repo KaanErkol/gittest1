@@ -15,4 +15,14 @@ void main(){
         return -1;
     }
 
+    void readSensor(){
+
+        while(true){
+            //
+        }
+
+        return 0;
+
+    }
+
 }
