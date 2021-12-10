@@ -8,4 +8,9 @@ void main(){
 
     }
 
+    void exitArcelik(){
+        //exit method
+
+    }
+
 }
