@@ -11,6 +11,8 @@ void main(){
     void exitArcelik(){
         //exit method
 
+
+        return -1;
     }
 
 }
