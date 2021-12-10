@@ -6,6 +6,7 @@ void main(){
     void printLn(){
         //logic
 
+        //
 
  
         return "ok"; //code fix
@@ -17,6 +18,16 @@ void main(){
 
 
         return -1;
+    }
+
+    void readSensor(){
+
+        while(true){
+            //
+        }
+
+        return 0;
+
     }
 
 }
